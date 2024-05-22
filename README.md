@@ -1,21 +1,16 @@
 Bu Uygulamam API33 Tiramisu Android 13.0 kullanılarak yapılmıştır..
 
-
 Güncel Cihazların %40ında rahatlıkla çalışmaktadır.
-
 
 Appi kullanılarak yapılmıştır..
 
-
 implementationların configure edilmesi gerekmektedir kodların çalışması için....
-
 
 dosyayı android studio ile açarken "Mobilhaberuygulaması" olarak dosya ismi olmalıdır..
 
------------------------------------------------------------------------------------------------
-aklıma şuanlık gelenler bunlar sorunla karşılaşanlar benimle iletişime geçebilirler...
-------------------------------------------------------------------------------------------------
+Aklıma şuanlık gelenler bunlar sorunla karşılaşanlar benimle iletişime geçebilirler...
 
+------------------------------------------------------------------------------------------------------------
 
 # Ahmet Şirin'in Tilki Temalı Mobil Haber Uygulaması Projesi
 
